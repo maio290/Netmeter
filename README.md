@@ -12,9 +12,13 @@ Just start the *.exe file -> done.
 Current Settings:
 
 Timeout == 1000 ms
+
 Internal IP 1 = localhost
+
 Internal IP 2 = 192.168.178.1 (usually used by fritz.box)
+
 External IP 1 = maio290.de
+
 External IP 2 = German Google-Server.
 
 //TODO:
