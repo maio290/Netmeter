@@ -1,0 +1,5 @@
+F:\Coding\Netmeter_Win_App\bin\Release\Netmeter.exe
+F:\Coding\Netmeter_Win_App\obj\Release\Netmeter_Win_App.csprojResolveAssemblyReference.cache
+F:\Coding\Netmeter_Win_App\obj\Release\Netmeter_Win_App.MainForm.resources
+F:\Coding\Netmeter_Win_App\obj\Release\Netmeter_Win_App.csproj.GenerateResource.Cache
+F:\Coding\Netmeter_Win_App\obj\Release\Netmeter.exe
